@@ -22,7 +22,6 @@ Transparence : les quatre études de cas sont fictives. Leurs entreprises, situa
 
 Mes domaines de compétence
 Account Management · Customer Success · Onboarding · Adoption produit · Rétention et churn · Upsell et expansion · Pilotage de KPI · Gestion de comptes multisites
-À propos du site
-Portfolio interactif développé en HTML, CSS et JavaScript, publié via GitHub Pages.
+
 Contact
 LinkedIn : Lison Merle
