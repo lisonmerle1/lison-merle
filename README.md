@@ -38,4 +38,4 @@ Portfolio interactif développé en **HTML, CSS et JavaScript**, publié via **G
 
 ## Contact
 
-[LinkedIn : Lison Merle](https://www.linkedin.com/in/merlelison/)
+[LinkedIn : Lison Merle](https://www.linkedin.com/in/lison-m-b090a712b/)
